@@ -1,0 +1,43 @@
+body {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+table{
+    width: 100%;
+    line-height: 20px;
+}
+
+#components-layout-demo-custom-trigger .trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+#components-layout-demo-custom-trigger .trigger:hover {
+  color: #1890ff;
+}
+
+#components-layout-demo-custom-trigger .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.3);
+  margin: 16px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.register{
+  /* width: 60%; */
+  margin: 0 auto;
+  height: 80%;
+  text-align: center;
+}
+
+.talkdiv{
+  width: 80%;
+  text-align: left;
+  border: #1890ff solid 1px;
+}

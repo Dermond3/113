@@ -1,0 +1,4 @@
+# c3
+.\main.go:22:31: not enough arguments in call to ctx.DefaultQuery
+	have (string)
+	want (string, string)
